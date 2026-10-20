@@ -1,0 +1,5 @@
+title: "Claude Sonnet 5.5 API 调用教程（TryAllAPI）"
+description: "How to call claude-sonnet-5-5 via TryAllAPI — OpenAI-compatible chat API & Anthropic Messages. 模型广场选型、价格表、接入笔记。"
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
